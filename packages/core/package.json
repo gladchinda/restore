@@ -1,0 +1,10 @@
+{
+  "name": "@restorejs/core",
+  "version": "0.0.0",
+  "description": "State traversal and restoration library for JavaScript.",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

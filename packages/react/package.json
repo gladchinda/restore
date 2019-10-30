@@ -1,0 +1,10 @@
+{
+  "name": "@restorejs/react",
+  "version": "0.0.0",
+  "description": "State traversal and restoration utilities for React.",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

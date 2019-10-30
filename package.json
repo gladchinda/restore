@@ -1,0 +1,14 @@
+{
+  "name": "restorejs",
+  "description": "State traversal and restoration library for JavaScript.",
+  "repository": "https://github.com/gladchinda/restore.git",
+  "author": "Glad Chinda <gladxeqs@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  }
+}
